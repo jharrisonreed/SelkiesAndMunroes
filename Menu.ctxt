@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Menu
+comment0.text=\r\n\ This\ is\ where\ the\ menu\ and\ user\ input\ is\ handled\r\n\r\n\ @author\ Harrison\ Reed\r\n\ @version\ 1\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Main\ method\ for\ the\ program\r\n
+comment2.params=
+comment2.target=void\ processUserChoices()
+comment2.text=\r\n\ method\ to\ process\ user's\ input\r\n
+comment3.params=
+comment3.target=void\ displayMenu()
+comment3.text=\r\n\ method\ to\ display\ option\ menu\ to\ the\ user\r\n
+comment4.params=
+comment4.target=void\ instructions()
+comment4.text=\r\n\ method\ to\ display\ instructions\ to\ the\ user\r\n
+numComments=5

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Players
+comment0.text=\r\n\ Class\ which\ deals\ with\ player\ related\ methods\r\n\r\n\ @author\ Harrison\ Reed\r\n\ @version\ 1\r\n
+comment1.params=players\ playerAmount
+comment1.target=void\ setPlayerNames(java.lang.String[],\ int)
+comment1.text=\r\n\ method\ to\ get\ the\ player\ names\ from\ the\ user\r\n
+comment2.params=pos\ playerPosition
+comment2.target=java.lang.String\ getMarker(int,\ int[])
+comment2.text=\r\n\ method\ to\ decide\ what\ is\ displayed\ in\ each\ square\ of\ the\ game\ grid\r\n
+comment3.params=
+comment3.target=int\ getPlayers()
+comment3.text=\r\n\ method\ to\ get\ player\ amount\ from\ the\ user\r\n
+numComments=4
